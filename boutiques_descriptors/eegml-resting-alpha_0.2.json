@@ -22,6 +22,7 @@
         {
             "id": "output_path",
             "name": "Output Path",
+            "default": "eegml_resting_alpha_results",
             "optional": false,
             "type": "String",
             "description": "Output path to begin writing tool results.",
