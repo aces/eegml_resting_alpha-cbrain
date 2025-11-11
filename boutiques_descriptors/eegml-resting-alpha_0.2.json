@@ -43,7 +43,7 @@
         "ram": 16
     },
     "custom": {
-        "cbrain:author": "Dominik Welke <d.welke@leeds.ac.uk>",
+        "cbrain:author": "Dominik Welke <d.welke@leeds.ac.uk>, Serge Boroday <serge.boroday@mcin.ca>",
         "cbrain:readonly-input-files": true,
         "cbrain:integrator_modules": {
             "BoutiquesBidsSingleSubjectMaker": "bids_root",
